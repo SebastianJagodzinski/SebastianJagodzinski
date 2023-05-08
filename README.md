@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SebastianJagodzinski
 - 👀 I’m interested in open source projects and intership
-- 🌱 I’m currently learning neural networks and image processing 
+<!---- 🌱 I’m currently learning neural networks and image processing --->
 - 📫 sebastian.jagodzinski@onet.pl
 
 <!---
